@@ -1,0 +1,7 @@
+requests
+colorama
+termcolor
+pwinput
+pyfiglet
+stdiomask
+rich
